@@ -1,0 +1,18 @@
+[submodule "modules/JavaScript"]
+	path = modules/JavaScript
+	url = https://github.com/KentVejrupMadsen/Codespace.JavaScript.git
+[submodule "modules/Rust"]
+	path = modules/Rust
+	url = https://github.com/KentVejrupMadsen/Codespace.Rust.git
+[submodule "modules/Python"]
+	path = modules/Python
+	url = https://github.com/KentVejrupMadsen/Codespace.Python.git
+[submodule "modules/PHP"]
+	path = modules/PHP
+	url = https://github.com/KentVejrupMadsen/Codespace.PHP.git
+[submodule "modules/CSharp"]
+	path = modules/CSharp
+	url = https://github.com/KentVejrupMadsen/Codespace.CSharp.git
+[submodule "modules/Bash"]
+	path = modules/Bash
+	url = https://github.com/KentVejrupMadsen/Codespace.Bash.git
