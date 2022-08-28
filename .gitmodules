@@ -16,3 +16,6 @@
 [submodule "modules/Bash"]
 	path = modules/Bash
 	url = https://github.com/KentVejrupMadsen/Codespace.Bash.git
+[submodule "modules/Java"]
+	path = modules/Java
+	url = https://github.com/KentVejrupMadsen/Codespace.Java.git
