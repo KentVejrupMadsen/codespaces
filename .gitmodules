@@ -1,0 +1,21 @@
+[submodule "spaces/python"]
+	path = spaces/python
+	url = https://github.com/KentVejrupMadsen/codespace.python.git
+[submodule "spaces/java"]
+	path = spaces/java
+	url = https://github.com/KentVejrupMadsen/codespace.java.git
+[submodule "spaces/javascript"]
+	path = spaces/javascript
+	url = https://github.com/KentVejrupMadsen/codespace.javascript.git
+[submodule "spaces/rust"]
+	path = spaces/rust
+	url = https://github.com/KentVejrupMadsen/codespace.rust.git
+[submodule "spaces/php"]
+	path = spaces/php
+	url = https://github.com/KentVejrupMadsen/codespace.php.git
+[submodule "spaces/csharp"]
+	path = spaces/csharp
+	url = https://github.com/KentVejrupMadsen/codespace.csharp.git
+[submodule "spaces/bash"]
+	path = spaces/bash
+	url = https://github.com/KentVejrupMadsen/codespace.bash.git
