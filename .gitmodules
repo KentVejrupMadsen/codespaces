@@ -1,21 +1,21 @@
-[submodule "modules/JavaScript"]
-	path = modules/JavaScript
-	url = https://github.com/KentVejrupMadsen/Codespace.JavaScript.git
-[submodule "modules/Rust"]
-	path = modules/Rust
-	url = https://github.com/KentVejrupMadsen/Codespace.Rust.git
-[submodule "modules/Python"]
-	path = modules/Python
-	url = https://github.com/KentVejrupMadsen/Codespace.Python.git
-[submodule "modules/PHP"]
-	path = modules/PHP
-	url = https://github.com/KentVejrupMadsen/Codespace.PHP.git
-[submodule "modules/CSharp"]
-	path = modules/CSharp
-	url = https://github.com/KentVejrupMadsen/Codespace.CSharp.git
-[submodule "modules/Bash"]
-	path = modules/Bash
-	url = https://github.com/KentVejrupMadsen/Codespace.Bash.git
-[submodule "modules/Java"]
-	path = modules/Java
-	url = https://github.com/KentVejrupMadsen/Codespace.Java.git
+[submodule "spaces/python"]
+	path = spaces/python
+	url = https://github.com/KentVejrupMadsen/codespace.python.git
+[submodule "spaces/java"]
+	path = spaces/java
+	url = https://github.com/KentVejrupMadsen/codespace.java.git
+[submodule "spaces/javascript"]
+	path = spaces/javascript
+	url = https://github.com/KentVejrupMadsen/codespace.javascript.git
+[submodule "spaces/rust"]
+	path = spaces/rust
+	url = https://github.com/KentVejrupMadsen/codespace.rust.git
+[submodule "spaces/php"]
+	path = spaces/php
+	url = https://github.com/KentVejrupMadsen/codespace.php.git
+[submodule "spaces/csharp"]
+	path = spaces/csharp
+	url = https://github.com/KentVejrupMadsen/codespace.csharp.git
+[submodule "spaces/bash"]
+	path = spaces/bash
+	url = https://github.com/KentVejrupMadsen/codespace.bash.git
