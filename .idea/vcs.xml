@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spaces/bash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spaces/csharp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spaces/java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spaces/javascript" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spaces/php" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spaces/python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spaces/python/frameworks/Keras" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spaces/rust" vcs="Git" />
+  </component>
+</project>
