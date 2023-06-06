@@ -2,6 +2,5 @@
 
 
 ## Footnotes
-* Copyright 2022: Kent vejrup Madsen
-* MIT License
-* 
+* Copyright 2023: Kent vejrup Madsen
+* [MIT License](License.md)
