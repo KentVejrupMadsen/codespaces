@@ -25,3 +25,45 @@
 [submodule "archive/scripts"]
 	path = archive/scripts
 	url = https://github.com/KentVejrupMadsen/code.dump.git
+[submodule "spaces/arduino"]
+	path = spaces/arduino
+	url = https://github.com/KentVejrupMadsen/codespace.arduino.git
+[submodule "environments/vagrant"]
+	path = environments/vagrant
+	url = https://github.com/KentVejrupMadsen/VMs.Vagrant.git
+[submodule "documents/quotations"]
+	path = documents/quotations
+	url = https://github.com/KentVejrupMadsen/quotations.git
+[submodule "documents/resources"]
+	path = documents/resources
+	url = https://github.com/KentVejrupMadsen/resources.git
+[submodule "documents/guides/powershell"]
+	path = documents/guides/powershell
+	url = https://github.com/KentVejrupMadsen/guide.powershell.git
+[submodule "documents/guides/bash"]
+	path = documents/guides/bash
+	url = https://github.com/KentVejrupMadsen/guide.bash.git
+[submodule "containers/prototypes/key-store"]
+	path = containers/prototypes/key-store
+	url = https://github.com/KentVejrupMadsen/prototype.key-store.git
+[submodule "containers/prototypes/entropy"]
+	path = containers/prototypes/entropy
+	url = https://github.com/KentVejrupMadsen/prototype.entropy.git
+[submodule "containers/prototypes/uoid"]
+	path = containers/prototypes/uoid
+	url = https://github.com/KentVejrupMadsen/prototype.unique-object-identifier.git
+[submodule "containers/prototypes/recommendation-engine"]
+	path = containers/prototypes/recommendation-engine
+	url = https://github.com/KentVejrupMadsen/prototype.recommendation-engine.git
+[submodule "containers/prototypes/tiae"]
+	path = containers/prototypes/tiae
+	url = https://github.com/KentVejrupMadsen/prototype.TIAE.git
+[submodule "containers/projects/ssp.revised.java"]
+	path = containers/projects/ssp.revised.java
+	url = https://github.com/KentVejrupMadsen/specialised-study-project.revised.java.git
+[submodule "containers/projects/ssp.revised.csharp"]
+	path = containers/projects/ssp.revised.csharp
+	url = https://github.com/KentVejrupMadsen/specialised-study-project.revised.c-sharp.git
+[submodule "services/folding"]
+	path = services/folding
+	url = https://github.com/KentVejrupMadsen/service.folding.git
