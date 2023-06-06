@@ -31,3 +31,15 @@
 [submodule "environments/vagrant"]
 	path = environments/vagrant
 	url = https://github.com/KentVejrupMadsen/VMs.Vagrant.git
+[submodule "documents/quotations"]
+	path = documents/quotations
+	url = https://github.com/KentVejrupMadsen/quotations.git
+[submodule "documents/resources"]
+	path = documents/resources
+	url = https://github.com/KentVejrupMadsen/resources.git
+[submodule "documents/guides/powershell"]
+	path = documents/guides/powershell
+	url = https://github.com/KentVejrupMadsen/guide.powershell.git
+[submodule "documents/guides/bash"]
+	path = documents/guides/bash
+	url = https://github.com/KentVejrupMadsen/guide.bash.git
