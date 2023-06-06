@@ -28,3 +28,6 @@
 [submodule "spaces/arduino"]
 	path = spaces/arduino
 	url = https://github.com/KentVejrupMadsen/codespace.arduino.git
+[submodule "environments/vagrant"]
+	path = environments/vagrant
+	url = https://github.com/KentVejrupMadsen/VMs.Vagrant.git
