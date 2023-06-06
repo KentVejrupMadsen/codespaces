@@ -55,3 +55,6 @@
 [submodule "containers/prototypes/recommendation-engine"]
 	path = containers/prototypes/recommendation-engine
 	url = https://github.com/KentVejrupMadsen/prototype.recommendation-engine.git
+[submodule "containers/prototypes/tiae"]
+	path = containers/prototypes/tiae
+	url = https://github.com/KentVejrupMadsen/prototype.TIAE.git
