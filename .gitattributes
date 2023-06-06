@@ -2,8 +2,9 @@
 * text=auto
 
 *.md text diff=markdown eol=crlf
-*.sh text diff=sh eol=lf
 *.py text diff=python eol=lf
+
+*.sh text diff=sh eol=lf
 *.ps1 text working-tree-encoding=UTF-16LE eol=CRLF
 
 # Git attributes
