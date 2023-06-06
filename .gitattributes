@@ -1,8 +1,11 @@
 # Default for all
 * text=auto
 
-*.md diff=markdown eol=crlf
-*.sh diff=sh eol=lf
+*.md text diff=markdown eol=crlf
+*.py text diff=python eol=lf
+
+*.sh text diff=sh eol=lf
+*.ps1 text working-tree-encoding=UTF-16LE eol=CRLF
 
 # Git attributes
 .gitignore text eol=lf
