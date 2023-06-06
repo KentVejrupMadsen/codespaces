@@ -64,3 +64,6 @@
 [submodule "containers/projects/ssp.revised.csharp"]
 	path = containers/projects/ssp.revised.csharp
 	url = https://github.com/KentVejrupMadsen/specialised-study-project.revised.c-sharp.git
+[submodule "services/folding"]
+	path = services/folding
+	url = https://github.com/KentVejrupMadsen/service.folding.git
