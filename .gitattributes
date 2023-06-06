@@ -1,8 +1,9 @@
 # Default for all
 * text=auto
 
-*.md diff=markdown eol=crlf
-*.sh diff=sh eol=lf
+*.md text diff=markdown eol=crlf
+*.sh text diff=sh eol=lf
+*.py text diff=python eol=lf
 
 # Git attributes
 .gitignore text eol=lf
