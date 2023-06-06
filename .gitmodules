@@ -58,3 +58,9 @@
 [submodule "containers/prototypes/tiae"]
 	path = containers/prototypes/tiae
 	url = https://github.com/KentVejrupMadsen/prototype.TIAE.git
+[submodule "containers/projects/ssp.revised.java"]
+	path = containers/projects/ssp.revised.java
+	url = https://github.com/KentVejrupMadsen/specialised-study-project.revised.java.git
+[submodule "containers/projects/ssp.revised.csharp"]
+	path = containers/projects/ssp.revised.csharp
+	url = https://github.com/KentVejrupMadsen/specialised-study-project.revised.c-sharp.git
