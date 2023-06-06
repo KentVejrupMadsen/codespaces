@@ -43,3 +43,15 @@
 [submodule "documents/guides/bash"]
 	path = documents/guides/bash
 	url = https://github.com/KentVejrupMadsen/guide.bash.git
+[submodule "containers/prototypes/key-store"]
+	path = containers/prototypes/key-store
+	url = https://github.com/KentVejrupMadsen/prototype.key-store.git
+[submodule "containers/prototypes/entropy"]
+	path = containers/prototypes/entropy
+	url = https://github.com/KentVejrupMadsen/prototype.entropy.git
+[submodule "containers/prototypes/uoid"]
+	path = containers/prototypes/uoid
+	url = https://github.com/KentVejrupMadsen/prototype.unique-object-identifier.git
+[submodule "containers/prototypes/recommendation-engine"]
+	path = containers/prototypes/recommendation-engine
+	url = https://github.com/KentVejrupMadsen/prototype.recommendation-engine.git
