@@ -22,3 +22,6 @@
 [submodule "configuration/nginx"]
 	path = configuration/nginx
 	url = https://github.com/KentVejrupMadsen/Automated.Nginx.git
+[submodule "archive/scripts"]
+	path = archive/scripts
+	url = https://github.com/KentVejrupMadsen/code.dump.git
