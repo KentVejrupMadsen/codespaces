@@ -67,3 +67,6 @@
 [submodule "services/folding"]
 	path = services/folding
 	url = https://github.com/KentVejrupMadsen/service.folding.git
+[submodule "containers/projects/ssp.revised.python"]
+	path = containers/projects/ssp.revised.python
+	url = https://github.com/KentVejrupMadsen/specialised-study-project.revised.python.git
