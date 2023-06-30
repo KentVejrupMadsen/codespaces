@@ -70,3 +70,15 @@
 [submodule "containers/projects/ssp.revised.python"]
 	path = containers/projects/ssp.revised.python
 	url = https://github.com/KentVejrupMadsen/specialised-study-project.revised.python.git
+[submodule "containers/templates/Prototype"]
+	path = containers/templates/Prototype
+	url = https://github.com/KentVejrupMadsen/Template.Prototype.git
+[submodule "containers/templates/DataSet"]
+	path = containers/templates/DataSet
+	url = https://github.com/KentVejrupMadsen/Template.Dataset.git
+[submodule "containers/templates/Module"]
+	path = containers/templates/Module
+	url = https://github.com/KentVejrupMadsen/Template.Module.git
+[submodule "containers/templates/Guide"]
+	path = containers/templates/Guide
+	url = https://github.com/KentVejrupMadsen/Template.Guide.git
