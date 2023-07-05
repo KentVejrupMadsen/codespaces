@@ -83,3 +83,6 @@
 	path = containers/templates/Guide
 	url = https://github.com/KentVejrupMadsen/Template.Guide.git
 
+[submodule "containers/templates/HTML.Project"]
+	path = containers/templates/HTML.Project
+	url = https://github.com/KentVejrupMadsen/Template.HTML.Project.git
